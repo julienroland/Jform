@@ -1,6 +1,7 @@
 {
     "name": "jux/jform",
     "description": "",
+    "keywords":[ "laravel", "form","blade"],
     "authors": [
         {
             "name": "Jux",
