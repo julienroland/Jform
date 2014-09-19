@@ -1,6 +1,6 @@
 #Jform
 
-Jform est une classe de remplacement à la class Form de Laravel.
+Jform is a Facade like the form facade but with boilerplate and accessibility management
 
 ##Installation
 
